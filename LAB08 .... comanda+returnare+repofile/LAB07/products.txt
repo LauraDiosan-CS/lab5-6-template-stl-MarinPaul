@@ -1,0 +1,5 @@
+banane 2 1000
+flori 20 3000
+mar 1 100
+para 2 10000
+tigari 20 10000
